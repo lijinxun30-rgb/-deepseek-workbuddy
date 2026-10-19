@@ -1,0 +1,18 @@
+# 凭据与个人数据 —— 永不上传
+apikey.txt
+wb_cloud_config.json
+chat_memory.json
+ledger.json
+ledger_credits.json
+state.ini
+usage.ini
+pet_bridge.pid
+
+# 日志与临时文件
+*.log
+*.pid
+__pycache__/
+_tmp/
+
+# 本机安装产物（dsh-pet 本体用 npm 安装，不入库）
+node_modules/
