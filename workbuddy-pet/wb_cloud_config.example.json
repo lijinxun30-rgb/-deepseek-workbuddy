@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://你的云应用.app.workbuddy.host",
+  "publishableKey": "wbpk_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "ledgerDir": "D:/dsh-pet"
+}
